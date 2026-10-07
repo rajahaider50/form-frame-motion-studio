@@ -1,0 +1,9 @@
+# TODO
+
+- [x] **پریمیم سات صفحات والی انگریزی ویب سائٹ:** منسلک ہدایات کے مطابق مکمل پروفیشنل ویب سائٹ ہو، اصل سے مختلف تخلیقی branded concept ہو، Next.js + TypeScript + Tailwind CSS + Framer Motion میں بنے، اور Home، About، Services، Projects، Project Details، Contact اور 404 کی واضح routes موجود ہوں۔ پورا source code انگریزی میں ہو۔
+- [x] **موشن، بصری معیار اور accessibility:** ڈارک premium glass/blur UI، اعلیٰ معیار کے رنگ، حرکت/موشن گرافکس، floating depth/3D احساس، scroll/page transitions، responsive layout، اور user-triggered spatial audio controls ہوں؛ بلا اجازت sound autoplay نہ ہو۔
+- [x] **مکمل مخفی مگر محفوظ Admin:** public navigation سے الگ ایک hidden admin URL ہو۔ admin login کے بغیر content edit ممکن نہ ہو۔ admin سے About، site contact information (فون، ای میل وغیرہ)، برانڈ/hero، services اور projects مستقل update ہوں اور save ہونے پر عوامی سائٹ پر نئی values آئیں۔ کوئی default credential یا bypass نہ ہو؛ Manus OAuth اور administrator allowlist/session configuration environment سے آئیں۔
+- [x] **فعال Contact اور Admin Inbox:** Contact form input validate کرے، درخواست کو local development میں اور configured production durable store میں محفوظ کرے، صارف کو واضح success/error دے، اور admin درخواستیں دیکھ کر status update کر سکے۔ Production میں durable-store config نہ ہو تو API غلطی کو کامیابی نہ دکھائے۔
+- [x] **چلانے، ZIP اور source حفاظت:** مکمل runnable source کے ساتھ Termux پر install/run/build کی انگریزی ہدایات ہوں؛ `.env*`, credentials، local data اور dependencies repository میں شامل نہ ہوں۔ ایک downloadable ZIP بنے۔
+- [ ] **عوامی GitHub source:** نئے public GitHub repository میں صرف مکمل source project push ہو اور repository link واپس دیا جائے۔
+- [ ] **Vercel hosting follow-up:** Vercel سے project connect/deploy ممکن ہو؛ اگر durable storage یا admin credentials دستیاب نہ ہوں تو مطلوب secrets/setup کی ضرورت واضح کی جائے، اور partial hosting کو مکمل کاروباری backend قرار نہ دیا جائے.

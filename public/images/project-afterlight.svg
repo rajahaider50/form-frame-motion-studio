@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" fill="none">
+ <defs><linearGradient id="b" x1="83" y1="68" x2="1122" y2="713" gradientUnits="userSpaceOnUse"><stop stop-color="#141211"/><stop offset="1" stop-color="#070809"/></linearGradient><radialGradient id="o" cx="0" cy="0" r="1" gradientTransform="matrix(1 377 -364 1 610 355)" gradientUnits="userSpaceOnUse"><stop stop-color="#F0BB78" stop-opacity=".65"/><stop offset=".53" stop-color="#7A4C42" stop-opacity=".12"/><stop offset="1" stop-color="#070809" stop-opacity="0"/></radialGradient><linearGradient id="g" x1="428" y1="242" x2="769" y2="570" gradientUnits="userSpaceOnUse"><stop stop-color="#FFF4DF" stop-opacity=".88"/><stop offset=".3" stop-color="#DCAB70" stop-opacity=".25"/><stop offset=".73" stop-color="#9970A9" stop-opacity=".33"/><stop offset="1" stop-color="#FAE2BD" stop-opacity=".56"/></linearGradient><linearGradient id="edge" x1="416" y1="211" x2="810" y2="585" gradientUnits="userSpaceOnUse"><stop stop-color="#FFF0D9" stop-opacity=".85"/><stop offset=".46" stop-color="#FFD68B" stop-opacity=".1"/><stop offset="1" stop-color="#E8B58C" stop-opacity=".68"/></linearGradient></defs>
+ <path fill="url(#b)" d="M0 0h1200v760H0z"/><path fill="url(#o)" d="M0 0h1200v760H0z"/>
+ <path d="M0 565c236-37 387-44 600-13 214 32 390 23 600-20" stroke="#EAD6C2" stroke-opacity=".25"/>
+ <path d="M431 410c0-96 77-174 173-174s173 78 173 174-77 174-173 174-173-78-173-174Z" fill="url(#g)" stroke="url(#edge)" stroke-width="2"/>
+ <path d="M445 404c101 22 176 5 315-68M460 470c126-67 195-71 318-38" stroke="#FFF4E5" stroke-opacity=".4" stroke-width="2"/>
+ <ellipse cx="602" cy="595" rx="229" ry="19" fill="#F0B76D" fill-opacity=".23"/>
+ <path d="M184 641h832" stroke="#F1E7D8" stroke-opacity=".12"/>
+ <circle cx="876" cy="214" r="3" fill="#D2FA6B" fill-opacity=".84"/>
+</svg>

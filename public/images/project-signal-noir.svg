@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" fill="none">
+ <defs><linearGradient id="b" x1="100" y1="42" x2="1090" y2="749" gradientUnits="userSpaceOnUse"><stop stop-color="#15111E"/><stop offset=".54" stop-color="#08080C"/><stop offset="1" stop-color="#0E1214"/></linearGradient><radialGradient id="v" cx="0" cy="0" r="1" gradientTransform="matrix(0 360 -411 0 673 394)" gradientUnits="userSpaceOnUse"><stop stop-color="#7651F7" stop-opacity=".54"/><stop offset="1" stop-color="#7651F7" stop-opacity="0"/></radialGradient><linearGradient id="s" x1="368" y1="273" x2="823" y2="548" gradientUnits="userSpaceOnUse"><stop stop-color="#FBFAFF" stop-opacity=".82"/><stop offset=".26" stop-color="#7D748E" stop-opacity=".24"/><stop offset=".51" stop-color="#F5F4FF" stop-opacity=".72"/><stop offset=".78" stop-color="#3E3949" stop-opacity=".3"/><stop offset="1" stop-color="#DDD8F1" stop-opacity=".78"/></linearGradient><linearGradient id="r" x1="242" y1="421" x2="996" y2="369" gradientUnits="userSpaceOnUse"><stop stop-color="#D2FA6B" stop-opacity="0"/><stop offset=".36" stop-color="#D2FA6B"/><stop offset=".63" stop-color="#8C70FF"/><stop offset="1" stop-color="#8C70FF" stop-opacity="0"/></linearGradient></defs>
+ <path fill="url(#b)" d="M0 0h1200v760H0z"/><path fill="url(#v)" d="M0 0h1200v760H0z"/>
+ <path d="M274 461c69-25 77-141 164-158 62-12 74 58 149 59 96 0 126-101 226-66 54 19 77 92 144 79" stroke="url(#r)" stroke-width="14" stroke-linecap="round"/>
+ <path d="M274 461c69-25 77-141 164-158 62-12 74 58 149 59 96 0 126-101 226-66 54 19 77 92 144 79" stroke="#F4F2FF" stroke-opacity=".68" stroke-width="2" stroke-linecap="round"/>
+ <path d="m431 462 13-134 118-56 132 62 130-11 82 90-31 121-134 25-104-43-134 15-72-69Z" fill="url(#s)" fill-opacity=".47" stroke="#F3EEFF" stroke-opacity=".57" stroke-width="2"/>
+ <path d="m444 328 139 95 111-89m-223 128 212-34 149 101m-50-205-99 104 180-13" stroke="#FFF" stroke-opacity=".36" stroke-width="1.5"/>
+ <path d="M124 630h956" stroke="#F5F2FF" stroke-opacity=".12"/>
+ <circle cx="878" cy="181" r="2.5" fill="#D2FA6B"/><circle cx="331" cy="238" r="2" fill="#A894FF"/>
+</svg>
